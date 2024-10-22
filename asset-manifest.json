@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/partfolio/static/css/main.39816c35.css",
+    "main.js": "/partfolio/static/js/main.bf1fa7d8.js",
+    "static/media/news.jpg": "/partfolio/static/media/news.c1a225bd192a6bd34c59.jpg",
+    "static/media/humen.png": "/partfolio/static/media/humen.0d091002ad2ab3870847.png",
+    "static/media/khabar.jpg": "/partfolio/static/media/khabar.df6f5a46fbef0ac8ed45.jpg",
+    "static/media/font.webp": "/partfolio/static/media/font.39644e7690e3ad60bf55.webp",
+    "static/media/css.png": "/partfolio/static/media/css.b5d80ce98c91370d6f5d.png",
+    "static/media/partfol.jpg": "/partfolio/static/media/partfol.3300494e550e539549c5.jpg",
+    "static/media/android.png": "/partfolio/static/media/android.bee3ec6eb16f6dcf8ffb.png",
+    "static/media/react.webp": "/partfolio/static/media/react.0c40a476122ed4d1e382.webp",
+    "index.html": "/partfolio/index.html",
+    "main.39816c35.css.map": "/partfolio/static/css/main.39816c35.css.map",
+    "main.bf1fa7d8.js.map": "/partfolio/static/js/main.bf1fa7d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39816c35.css",
+    "static/js/main.bf1fa7d8.js"
+  ]
+}
